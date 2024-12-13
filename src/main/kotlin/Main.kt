@@ -1,5 +1,9 @@
 package org.example
 
-fun main() {
-    println("Hello World!")
-}
+import org.example.script.runApp
+
+fun main() { runApp() }
+
+
+
+
